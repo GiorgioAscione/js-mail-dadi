@@ -22,4 +22,4 @@ for(let i=0; i<listemail.length; i= i+1){
     }
     else {
         alert("La tua email non ha permessi di accesso");
-    }
+    } 
